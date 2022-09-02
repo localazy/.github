@@ -1,3 +1,5 @@
+![Localazy UI](https://directus9.localazy.com/assets/2513722f-bb09-4208-8b65-436e27934434)
+
 # Welcome to Localazy! 👋
 - Localazy is a localization platform built for developers and friendly to all other users.
 - Manage translations and enjoy powerful localization features.
@@ -14,9 +16,6 @@
 * [Typescript SDK](https://github.com/localazy/ts-api)
 * [CDN Delivery](https://localazy.com/blog/deliver-translated-files-localazy-cdn-tutorial)
 * [Supported file formats](https://localazy.com/docs/cli/upload-reference#supported-file-formats)
-
-*See our [integrations](https://localazy.com/integrations) page for more.*
-
 
 ## Guides & Resources
 * [Automated localization using Github Actions](https://localazy.com/blog/automated-localization-github-actions-localazy)
