@@ -32,4 +32,4 @@
 * [Javascript with i18next](https://localazy.com/blog/javascript-app-localization-i18next-localazy)
 * [React with LinguiJS](https://localazy.com/blog/how-to-localise-your-react-app-with-linguijs-and-localazy)
 * [Vue.js with vue-i18n](https://localazy.com/blog/how-to-localize-vuejs-app-with-vue-i18n-and-localazy)
-
+* [Localazy languages](https://github.com/localazy/languages)
